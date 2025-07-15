@@ -1,0 +1,1 @@
+Use npx nodemon src/index.js command in crud-backend to run server
